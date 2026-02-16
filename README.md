@@ -9,7 +9,9 @@
 
 Je suis **[Thomas Roudil]**, **software engineer** basé en **France**&nbsp;🇫🇷
 
-Je conçois et développe des applications web, des interfaces soignées et des sites complexes — du design à la mise en production. Quelques réalisations et moyen de contact ici : [thomy.xyz](https://thomy.xyz)
+Je conçois et développe des applications web, des interfaces soignées et des sites complexes — du design à la mise en production.
+
+Projets et contact : [thomy.xyz](https://thomy.xyz)
 
 ## Languages and Tools:
 
